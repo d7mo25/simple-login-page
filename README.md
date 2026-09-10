@@ -4,7 +4,7 @@ A simple, responsive login page built with HTML and CSS, featuring email/passwor
 
 ## 🔗 Live Demo
 
-👉 [View Live Demo]((https://d7mo25.github.io/simple-login-page/)) 
+👉 [View Live Demo](https://d7mo25.github.io/simple-login-page/) 
 
 ## 📋 Overview
 
